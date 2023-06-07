@@ -1,0 +1,17 @@
+{
+  "name": "lucas",
+  "version": "1.0.0",
+  "description": "utilizando o npm para modulos externos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Lucas Guilherme",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
